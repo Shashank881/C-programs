@@ -3,7 +3,7 @@ This repository contains a collection of C programs that I’ve written while le
 
 
 ## 📑 Table of Contents  
-- [Introduction](#sum.c)(#array.c)
+- [Introduction]
 - [Folder Structure](#folder-structure)  
 - [Getting Started](#getting-started)  
 - [Topics Covered](#topics-covered)  
