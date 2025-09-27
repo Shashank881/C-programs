@@ -4,14 +4,14 @@ This repository contains a collection of C programs that I’ve written while le
 
 ## 📑 Table of Contents  
 ### 📂 Basics
-- [sum.c](./sum.c)
-- [pcm.c](./pcm.c)
-- [basicsalary.c](./basicsalary.c)
+- [Sum](./sum.c)
+- [PCM](./pcm.c)
+- [Basicsalary](./basicsalary.c)
 ### 📂 Condtional statements
-- [oddeven.c](./oddeven.c)
-- [threevalues.c](./threevalues.c)
-- [fourvalues.c](./fourvalues.c)
-- [fivevalues.c](./fivevalues.c)
-- [telebill.c](./telebill.c)
+- [Oddeven](./oddeven.c)
+- [Threevalues](./threevalues.c)
+- [Fourvalues](./fourvalues.c)
+- [Fivevalues](./fivevalues.c)
+- [Telebill](./telebill.c)
 - [Sumofnaturalnums](./sumofnatural.c)
 - 
