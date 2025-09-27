@@ -13,3 +13,5 @@ This repository contains a collection of C programs that I’ve written while le
 - [fourvalues.c](./fourvalues.c)
 - [fivevalues.c](./fivevalues.c)
 - [telebill.c](./telebill.c)
+- [Sumofnaturalnums](./sumofnatural.c)
+- 
