@@ -7,3 +7,8 @@ This repository contains a collection of C programs that I’ve written while le
 - [sum.c](./sum.c)
 - [pcm.c](./pcm.c)
 - [basicsalary.c](./basicsalary.c)
+### 📂 Condtional statements
+- [oddeven.c](./oddeven.c)
+- [threevalues.c](./threevalues.c)
+- [fourvalues.c](./fourvalues.c)
+- [fivevalues.c](./fivevalues.c)
