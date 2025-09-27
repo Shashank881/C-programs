@@ -12,3 +12,4 @@ This repository contains a collection of C programs that I’ve written while le
 - [threevalues.c](./threevalues.c)
 - [fourvalues.c](./fourvalues.c)
 - [fivevalues.c](./fivevalues.c)
+- [telebill.c](./telebill.c)
