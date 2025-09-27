@@ -4,4 +4,6 @@ This repository contains a collection of C programs that I’ve written while le
 
 ## 📑 Table of Contents  
 ### 📂 Basics
-- [sum.c](./sum.c)  
+- [sum.c](./sum.c)
+- [pcm.c](./pcm.c)
+- [basicsalary.c](./basicsalary.c)
