@@ -32,4 +32,8 @@ This repository contains a collection of C programs that I’ve written while le
 ###  📂 Array
 - [Array](./array.c)
 - [Array2](./array2.c)
-- 
+- [SumAvg](./array3.c)
+- [MaxMin](./array4.c)
+- [FindValue](./array5.c)
+- [Bubblesort](./array6.c)
+- [NewValue](./array7.c)
