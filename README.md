@@ -26,6 +26,6 @@ This repository contains a collection of C programs that I’ve written while le
 - [Reverseofnum](./reverseofnum.c)
 - [Strongnumber](./strong.c)
 - [Armstrongnumber](./armstrong.c)
-##### Switch Case.
 - [SwitchCase](./switch.c)
+- [NestSwitch](./nestswitch.c)
 - [SwitchMaxThree](./switch2.c)
