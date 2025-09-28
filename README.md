@@ -29,3 +29,7 @@ This repository contains a collection of C programs that I’ve written while le
 - [SwitchCase](./switch.c)
 - [NestSwitch](./nestswitch.c)
 - [SwitchMaxThree](./switch2.c)
+###  📂 Array
+- [Array](./array.c)
+- [Array2](./array2.c)
+- 
