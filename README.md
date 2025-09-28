@@ -37,3 +37,7 @@ This repository contains a collection of C programs that I’ve written while le
 - [FindValue](./array5.c)
 - [Bubblesort](./array6.c)
 - [NewValue](./array7.c)
+#### 2D Array
+- [2dArray](./2darray.c)
+- [Sumoftwo](./2darray2.c)
+- [Transpose](./2darray3.c)
