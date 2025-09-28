@@ -41,3 +41,10 @@ This repository contains a collection of C programs that I’ve written while le
 - [2dArray](./2darray.c)
 - [Sumoftwo](./2darray2.c)
 - [Transpose](./2darray3.c)
+### 📂 String
+- [String](./str.c)
+- [String2](./string.c)
+- [Calculate](./string2.c)
+- [CopyString](./string3.c)
+- [Concatenate](./string4.c)
+- [Palindrome](./string5.c)
