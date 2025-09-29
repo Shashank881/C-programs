@@ -53,4 +53,4 @@ This repository contains a collection of C programs that I’ve written while le
 - [CopyStructure](./struct2.c)
 - [NestedStructure](./neststruct.c)
 - [NestedStructure2](./neststruct2.c)
-- [NestedStructure3](./neststruct3.c)
+- [NestedStructure3](./nestsruct3.c)
