@@ -48,3 +48,6 @@ This repository contains a collection of C programs that I’ve written while le
 - [CopyString](./string3.c)
 - [Concatenate](./string4.c)
 - [Palindrome](./string5.c)
+### 📂 Structure
+-[EmployeeStructure](./struct.c)
+-[CopyStructure](./struct2.c)
