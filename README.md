@@ -86,4 +86,14 @@ This repository contains a collection of C programs that I’ve written while le
 - [AccessData](./arraypoin3.c)
 - [FloatData](./arraypoin5.c)
 - [ArrayPoint3](./arraypoint6.c)
-
+### 📂 Others
+- [Power](./power.c)
+- [Primevalues](./prime.c)
+- [Primevalues2](./prime2.c)
+- [Factorial](./factorial.c)
+- [Factorial2](./factorial2.c)
+- [Fibonacci](./fibonacci.c)
+- [Countnumber](./count.c)
+- [Reverseofnum](./reverseofnum.c)
+- [Strongnumber](./strong.c)
+- [Armstrongnumber](./armstrong.c)
