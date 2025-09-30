@@ -81,14 +81,9 @@ This repository contains a collection of C programs that I’ve written while le
 - [Calculation](./pointer3.c)
 - [Calculation](./pointer4.c)
 #### Array With Pointers
-
--[ArrayPoint](./arraypoint.c)
-
--[ArrayPoint2](./arraypoint2.c)
-
--[AccessData](./arraypoin3.c)
-
--[FloatData](./arraypoin5.c)
-
--[ArrayPoint3](./arraypoint6.c)
+- [ArrayPoint](./arraypoint.c)
+- [ArrayPoint2](./arraypoint2.c)
+- [AccessData](./arraypoin3.c)
+- [FloatData](./arraypoin5.c)
+- [ArrayPoint3](./arraypoint6.c)
 
