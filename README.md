@@ -68,6 +68,13 @@ This repository contains a collection of C programs that I’ve written while le
 - [FullPyramid](./starpattern5.c)
 - [HourGlass](./starpattern6.c)
 - [CountingPyramid](./starpattern7.c)
+### 📂 Functions
+- [ReturnValue](./function.c)
+- [ReturnValueNoPass](./function2.c)
+- [NoReturnNoPass](./function3.c)
+- [NoReturnWithPass](./function4.c)
+- [ArrayFunction](./function5.c)
+- [ArrayFunction2](./function6.c)
 ### 📂 Pointer
 - [Pointer](./pointer.c)
 - [Pointer2](./pointer2.c)
