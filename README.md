@@ -54,12 +54,20 @@ This repository contains a collection of C programs that I’ve written while le
 - [NestedStructure](./neststruct.c)
 - [NestedStructure2](./neststruct2.c)
 - [NestedStructure3](./nestsruct3.c)
-###  📂 Pattern
+###  📂 Patterns
 - [Pattern](./pattern.c)
 - [Pattern2](./pattern2.c)
 - [Rightpyramid](./pattern3.c)
 - [Pattern4](./pattern4.c)
 - [RepeatNum](./pattern5.c)
+#### Star Patterns
+- [StarPattern](./starpattern.c)
+- [RhombusPattern](./starpattern2.c)
+- [ShallowRhombus](./starpattern3.c)
+- [LeftHalf](./starpattern4.c)
+- [FullPyramid](./starpattern5.c)
+- [HourGlass](./starpattern6.c)
+- [CountingPyramid](./starpattern7.c)
 ### 📂 Pointer
 - [Pointer](./pointer.c)
 - [Pointer2](./pointer2.c)
