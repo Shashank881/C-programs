@@ -69,7 +69,7 @@ This repository contains a collection of C programs that I’ve written while le
 - [HourGlass](./starpattern6.c)
 - [CountingPyramid](./starpattern7.c)
 ### 📂 Functions
-- [ReturnValue](./function.c)
+- [ReturnValue](./fucntion.c)
 - [ReturnValueNoPass](./function2.c)
 - [NoReturnNoPass](./function3.c)
 - [NoReturnWithPass](./function4.c)
