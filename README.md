@@ -54,6 +54,12 @@ This repository contains a collection of C programs that I’ve written while le
 - [NestedStructure](./neststruct.c)
 - [NestedStructure2](./neststruct2.c)
 - [NestedStructure3](./nestsruct3.c)
+###  📂 Pattern
+- [Pattern](./pattern.c)
+- [Pattern2](./pattern2.c)
+- [Rightpyramid](./pattern3.c)
+- [Pattern4](./pattern4.c)
+- [RepeatNum](./pattern5.c)
 ### 📂 Pointer
 - [Pointer](./pointer.c)
 - [Pointer2](./pointer2.c)
