@@ -88,11 +88,11 @@ This repository contains a collection of C programs that I’ve written while le
 - [Strongnumber](./strong.c)
 - [Armstrongnumber](./armstrong.c)
 
-# 🤝 Contribution
+## 🤝 Contribution
 
 Feel free to fork this repository and submit pull requests if you’d like to add improvements or new C programs.
 
-# 📄 License
+## 📄 License
 
 This project is licensed under the MIT License – you’re free to use, modify, and distribute these codes with proper credit. Contribution
 
