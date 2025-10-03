@@ -76,6 +76,11 @@ This repository contains a collection of C programs that I’ve written while le
 - [AccessData](./arraypoin3.c)
 - [FloatData](./arraypoin5.c)
 - [ArrayPoint3](./arraypoint6.c)
+###  📂 Dynamic Memory Allocation
+- [UsingAlloc](./dynamic.c)
+- [UsingAlloc2](./dynamic2.c)
+- [Using++int](./dynamic3.c)
+- [Using++float](./dynamic4.c)
 ### 📂 DSA Programs
 - [Power](./power.c)
 - [Primevalues](./prime.c)
